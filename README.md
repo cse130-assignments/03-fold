@@ -1,4 +1,4 @@
-# Assignment 3: All about Fold (Points: 24 public / 160 private)
+# Assignment 3: All about Fold (Points: 24 public + 136 private = 160 total)
 
 ## Overview
 
